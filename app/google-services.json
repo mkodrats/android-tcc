@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "448840637436",
+    "firebase_url": "https://tcc-13.firebaseio.com",
+    "project_id": "tcc-13",
+    "storage_bucket": "tcc-13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448840637436:android:d175da852e2ac2e0",
+        "android_client_info": {
+          "package_name": "id.ac.akakom.lab.student.tcc_13"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448840637436-a65lqen4agle20gikm5iqpcaekg62oiu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.ac.akakom.lab.student.tcc_13",
+            "certificate_hash": "245b23f2b227376a23292c0d8111693a0ab47113"
+          }
+        },
+        {
+          "client_id": "448840637436-iegtbp03fkbastuler4c9mfq70o4br69.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.ac.akakom.lab.student.tcc_13",
+            "certificate_hash": "828dc124b703d65ef7e9bb5a0976af9ec9468a04"
+          }
+        },
+        {
+          "client_id": "448840637436-1n8qbk12gnqvj43sn4m2hutjiupcplbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNgPt6KCNDzROez4YMqg1zWuwxXrh4QzI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448840637436-1n8qbk12gnqvj43sn4m2hutjiupcplbp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
